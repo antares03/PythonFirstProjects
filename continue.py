@@ -1,10 +1,10 @@
 while True:
     s = input('input any where : ')
-    if s = 'Exit':
+    if s == 'Exit':
         break
     if len(s) < 3:
         print('to small')
         continue
-    print('Введённая строка достаточной длины')
+    print('Input string sufficient lenght')
     # Разные другие действия здесь...
 
