@@ -1,1 +1,1 @@
-Write Update on local branch fku-local
+Resolved the merge conflict. In local branch fku-local write changes.
